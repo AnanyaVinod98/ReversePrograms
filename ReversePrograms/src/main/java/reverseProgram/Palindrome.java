@@ -1,7 +1,5 @@
 package reverseProgram;
 
-import java.util.Scanner;
-
 public class Palindrome {
 	public Boolean isPalindrome(int num) {
 		int copyNum = num;

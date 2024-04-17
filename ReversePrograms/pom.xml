@@ -4,4 +4,8 @@
   <artifactId>ReversePrograms</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>ReversePrograms</name>
+  <properties>
+     <maven.compiler.source>1.8</maven.compiler.source>
+     <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
 </project>
